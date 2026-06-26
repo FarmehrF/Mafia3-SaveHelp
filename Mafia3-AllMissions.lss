@@ -1,0 +1,1636 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Mafia III</GameName>
+  <CategoryName>All Missions</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region usesEmulator="False" />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Start Game</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Prologue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Why Take For Chance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-This Change Everything</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-A Taste Of Action</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Sammy And Ellis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Go Down Their Own</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Never Going To Be Over</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Time To Make Change</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Still Pull This Off</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Damn Is This Aint The Gas</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Del Hollow</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-A Friend In Jesus</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Something Go To Do</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-That A Plan Padre</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Old Times Sake</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Sheila</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Merle Jackson</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Smack</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Rithcie Doucet</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Bayou</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Save Vito We Are Partners</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Friends Like These</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Andy Turetto</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Contraband</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Michael Grecco</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Pick Burke Dossier</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Meet Burke</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Meet Burke A Car</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Nicki Burke</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Bear Donelly</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Sonny Blue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Moonshine</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Carl Bevers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill The Butcher</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>River Row</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Only Way Foward</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-An Emotional Attachment</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Auto Theft</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Destroy Stashed Car</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Jack Junior</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Point Hope</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk About Frank Pagani</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Pablo Durate</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Pops Holland</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Frank Pagani</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chase Frank Pagani</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>French Ward</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Compremissed Corruption</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Lennie Davis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Jimmy Cavar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Harold Cauley</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Frankie Bernard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk About Tony Derazio</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Tony Derazio And Steal Dominick Car</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Enter Lobby</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Tony Derazio</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Dead Stay Gone</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-After Talk Maria Bava</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Connie Demarco Guns</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill The Cleaners</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Puppy Simons</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Steal Santini Guns</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Peter Santini</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tickfaw</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Get Enzo Conti</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Enzo</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Bear Donelly About Pcp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Bastian Pcp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Jackie Grimaldi</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Interogate Chester</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill The Enforcer</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Continue Kill Hunt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Chester Moreau</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Informant Duvall</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Remy Duvall</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Frisco Fields</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk About Olivia Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Follow Olivia</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Olivia Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Barclay Mills</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Grad Purdue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Artie Higgins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk To Sweet Little</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Two Dicks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk About Alvarez</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Save Alvarez</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Sand Hollow</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk About Tommy Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Alcee</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Fighting</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Return Locker Room</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Tommy Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Downtown</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Nino Santangelo</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Harold Cauley</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Handsome Harry</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk Jim Mcomrrick</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Doc Gaston</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Judge Holden</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Talk About Lou Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Detonate C-4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Lou Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Finale</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Discuss Kill Marcanos</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Giorgi</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Kill Sal Marcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Leave New Bourdeaux</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime />
+          <GameTime />
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime />
+        <GameTime />
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+</Run>
